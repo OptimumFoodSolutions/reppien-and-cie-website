@@ -1,0 +1,24 @@
+# OS-genererede filer
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor-filer
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logfiler
+*.log
+
+# Intern hukommelse og kildemateriale til Claude Code - maa ALDRIG udgives
+CLAUDE.md
+0. Projekt og hukommelse/
+1. Kildemateriale/
+
+# Hemmeligheder (findes ikke i projektet, men spaerres for en sikkerheds skyld)
+*adgang*.txt
+*.env
